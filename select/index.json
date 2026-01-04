@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Recipe (レシピ)",
+  "base_artist": "山下達郎",
+  "createdAt": "2026-01-04T14:50:59.342087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Recipe for Disaster",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/01_Recipe_for_Disaster_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sugar Water (Original Recipe)",
+      "artist": "Cibo Matto",
+      "has_synced": true,
+      "path": "select/02_Sugar_Water_(Original_Recipe)_Cibo_Matto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "2 Much Booty (in the Pants) (Down South Recipe)",
+      "artist": "Soundmaster T",
+      "has_synced": false,
+      "path": "select/03_2_Much_Booty_(in_the_Pants)_(Down_South_Recipe)_Soundmaster_T.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Recipe for Hate",
+      "artist": "Clawfinger",
+      "has_synced": false,
+      "path": "select/04_Recipe_for_Hate_Clawfinger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Recipe for Hate... Warhorse",
+      "artist": "Megadeth",
+      "has_synced": false,
+      "path": "select/05_Recipe_for_Hate..._Warhorse_Megadeth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Recipe For The Perfect Afro",
+      "artist": "Featurecast",
+      "has_synced": true,
+      "path": "select/06_Recipe_For_The_Perfect_Afro_Featurecast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/07_The_Recipe_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar feat. Dr. Dre",
+      "has_synced": true,
+      "path": "select/08_The_Recipe_Kendrick_Lamar_feat._Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Recipe",
+      "artist": "Aura Dione",
+      "has_synced": true,
+      "path": "select/09_Recipe_Aura_Dione.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Recipe For Hate",
+      "artist": "Bad Religion",
+      "has_synced": false,
+      "path": "select/10_Recipe_For_Hate_Bad_Religion.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Recipe For Hate",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/11_Recipe_For_Hate_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Recipe For Hate... Warhorse",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/12_Recipe_For_Hate..._Warhorse_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Recipe For Hate...Warhorse",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/13_Recipe_For_Hate...Warhorse_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Recipe for Hate... Warhorse (2019 - Remaster)",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/14_Recipe_for_Hate..._Warhorse_(2019_-_Remaster)_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar featuring Dr. Dre",
+      "has_synced": true,
+      "path": "select/15_The_Recipe_Kendrick_Lamar_featuring_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Recipe (Feat. Dr Dre)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_The_Recipe_(Feat._Dr_Dre)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tomadoi→Recipe",
+      "artist": "Mikakunig",
+      "has_synced": false,
+      "path": "select/17_Tomadoi→Recipe_Mikakunig.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tomadoi→Recipe",
+      "artist": "Mikakuning!",
+      "has_synced": false,
+      "path": "select/18_Tomadoi→Recipe_Mikakuning!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RECIPE(レシピ)",
+      "artist": "山下 達郎",
+      "has_synced": false,
+      "path": "select/pl_01_RECIPE(レシピ)_山下_達郎.txt"
+    }
+  ]
+}
